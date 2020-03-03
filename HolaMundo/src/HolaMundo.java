@@ -3,7 +3,7 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 		// TODO Apéndice de método generado automáticamente
-		System.out.println("Hola mundooooo ppppp");
+		System.out.println("Hola mundooooo ostiaaaa");
 	}
 
 }
